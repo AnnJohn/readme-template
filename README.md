@@ -1,4 +1,4 @@
-All Readmes should follow a similar format when it comes to how your content is structured, which we'll talk about more below. We'll include some technical markdown expecatios as well.
+All Readmes should follow a similar format when it comes to how your content is structured, which we'll talk about more below. 
 
 As a reminder, all repositories **must** have:
 
@@ -10,13 +10,6 @@ As a reminder, all repositories **must** have:
 *Use the gem discussed earlier to add .learn, License, and Contributing files.*
 
 ## Readme Outline:
-
-##### Take a look at these examples:
-
-Reading: 
-
-  * [SQL- Inserting, Selecting, Updating and Deleting Database Rows And Methods](https://github.com/learn-co-curriculum/sql-insert-select-update-code-along)
-  * [Rails- ActiveRecord Validations](https://github.com/learn-co-curriculum/activerecord-validations-readme)
 
 
 # `#` Title 
@@ -46,4 +39,19 @@ Be opinionated! There are many ways to solve a problem with code and there are m
 ## `##` Resources
 
 This is an optional section, but list and link to resources, articles, and websites that you think will be beneficial for additional reading.
+
+## Some Readme Examples:
+
+  * [SQL- Inserting, Selecting, Updating and Deleting Database Rows And Methods](https://github.com/learn-co-curriculum/sql-insert-select-update-code-along)
+	
+  * [Rails- ActiveRecord Validations](https://github.com/learn-co-curriculum/activerecord-validations-readme)
+	
+## Coming Up
+
+We'll take a closer look at some of these various components and dive into how to create great narrative and structure in your lessons. 
+
 <a href='https://learn.co/lessons/readme-template' data-visibility='hidden'>View this lesson on Learn.co</a>
+
+
+
+
